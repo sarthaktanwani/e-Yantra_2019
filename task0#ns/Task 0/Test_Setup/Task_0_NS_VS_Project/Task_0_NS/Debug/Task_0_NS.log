@@ -1,0 +1,8 @@
+﻿  extApi.c
+  extApiPlatform.c
+  Adding library: Winmm.lib
+  Adding library: Ws2_32.lib
+  Generating Code...
+  Task_0_NS.cpp
+     Creating library C:\Users\PARTH\Desktop\E-yantra\task0#ns\Task 0\Test_Setup\Task_0_NS_VS_Project\Debug\Task_0_NS.lib and object C:\Users\PARTH\Desktop\E-yantra\task0#ns\Task 0\Test_Setup\Task_0_NS_VS_Project\Debug\Task_0_NS.exp
+  Task_0_NS.vcxproj -> C:\Users\PARTH\Desktop\E-yantra\task0#ns\Task 0\Test_Setup\Task_0_NS_VS_Project\Debug\Task_0_NS.exe
